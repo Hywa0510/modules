@@ -23,7 +23,7 @@ DOMAIN-KEYWORD,openai
 # HOST-KEYWORD: 1
 # HOST-SUFFIX: 12
 # TOTAL: 14
-HOST,ai.cn,OpenAI
+HOST,openai.cn,OpenAI
 HOST-SUFFIX,openai.com,OpenAI
 HOST-SUFFIX,auth0.com,OpenAI
 HOST-SUFFIX,challenges.cloudflare.com,OpenAI
