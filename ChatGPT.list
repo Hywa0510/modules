@@ -1,6 +1,7 @@
 HOST-KEYWORD,openai,OpenAI
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,chatgpt.com
+HOST-SUFFIX,chatgpt.com
 DOMAIN,openai.cn
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,auth0.com
